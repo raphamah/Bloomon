@@ -19,10 +19,10 @@ class Bloomon {
 	public static class MainClass
 	{
 		
-        private String[] bouquets = new String[9999];
+		private String[] bouquets = new String[9999];
 		private Map<String,Integer> flowers = new HashMap<>();
 		private int countbouquet = 0;
-        public void readValues()
+		public void readValues()
 		{
 			String input;
 			Scanner reader = new Scanner(System.in);		

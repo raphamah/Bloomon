@@ -1,5 +1,5 @@
-To run the code you only need to use:<br/>
-javac main.java<br/>
-after you should use:<br/>
-java Bloomon < input.txt<br/>
+To run the code you only need to use:
+javac main.java
+after you should use:
+java Bloomon < input.txt
 Where input.txt is the path of the file

@@ -6,9 +6,7 @@ import java.util.Map;
 import java.util.HashMap;
 class Bloomon {
 	
-	
-	
-    public static void main(String[] args) {
+	public static void main(String[] args) {
     	
 		MainClass myClass = new MainClass();
 		
@@ -17,8 +15,9 @@ class Bloomon {
 		//finish read input
 		myClass.verifyBouquites();
 		
-    }
-	public static class MainClass {
+	}
+	public static class MainClass
+	{
 		
         private String[] bouquets = new String[9999];
 		private Map<String,Integer> flowers = new HashMap<>();
